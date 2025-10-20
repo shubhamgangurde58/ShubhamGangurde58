@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I'm Shubham Gangurde  
 
-<!--
-**shubhamgangurde58/ShubhamGangurde58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA First Year Student** passionate about full-stack Java development and learning new technologies every day.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me  
+- 💻 I’ve completed **C**, **C++**, **Core Java**, **Java 8**, **JDBC**, and **Hibernate**.  
+- 🚀 I’m currently learning **JSP** and **Servlets**.  
+- 🎯 My next goal is to master **Spring Boot** and build full-scale enterprise applications.  
+- 🤝 I’m open to collaborating on **Java**, **Database**, and **Web Development** projects.  
+- 💬 Ask me about **Java, SQL, JDBC, Hibernate**, or **Object-Oriented Programming**.  
+- ⚡ Fun fact: *Every day is a new opportunity to learn something awesome!*  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** C, C++, Java  
+**Database:** MySQL, Oracle  
+**Frameworks:** Hibernate, (learning JSP & Servlet → next Spring Boot)  
+**Tools:** Eclipse, IntelliJ IDEA, VS Code, Git & GitHub  
+
+---
+
+### 📫 Connect With Me  
+📧 Email: 📫 [shubhamgangurde58@gmail.com](mailto:shubhamgangurde58@gmail.com)
+💼 LinkedIn: (https://www.linkedin.com/in/shubham-gangurde) 
+🌐 GitHub: [ShubhamGangurde58]([https://github.com/shubhamgangurde58])  
+
