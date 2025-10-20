@@ -16,6 +16,6 @@
 
 ### 📫 Connect With Me  
 📧 Email: 📫 [shubhamgangurde58@gmail.com](mailto:shubhamgangurde58@gmail.com)
-💼 LinkedIn: (https://www.linkedin.com/in/shubham-gangurde) 
+💼 LinkedIn: ([https://www.linkedin.com/in/shubham-gangurde](https://www.linkedin.com/in/shubham-gangurde-772696388/)) 
 🌐 GitHub: [ShubhamGangurde58]([https://github.com/shubhamgangurde58])  
 
