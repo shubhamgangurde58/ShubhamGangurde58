@@ -14,14 +14,6 @@
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages:** C, C++, Java  
-**Database:** MySQL, Oracle  
-**Frameworks:** Hibernate, (learning JSP & Servlet → next Spring Boot)  
-**Tools:** Eclipse, IntelliJ IDEA, VS Code, Git & GitHub  
-
----
-
 ### 📫 Connect With Me  
 📧 Email: 📫 [shubhamgangurde58@gmail.com](mailto:shubhamgangurde58@gmail.com)
 💼 LinkedIn: (https://www.linkedin.com/in/shubham-gangurde) 
