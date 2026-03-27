@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shubham Gangurde<br><br>🎓 MCA First Year Student | 💻 Aspiring Full-Stack Java Developer<br>I am passionate about building efficient applications and learning modern technologies. I enjoy working on backend development, databases, and clean, structured code.<br><br>🌱 About Me<br>💻 Completed: C, C++, Core Java, Java 8, JDBC, Hibernate, Python (Basics + OOP)<br>🚀 Currently Learning: JSP, Servlets<br><br>🎯 Next Goals:<br>Master Spring Boot<br>Build full-scale enterprise applications<br>Strengthen Python for automation & scripting<br><br>🤝 Open to collaborate on:<br>Java Projects, Database Systems, Web Development, Python Scripts<br><br>💬 Ask Me About<br>✔ Java<br>✔ SQL<br>✔ JDBC & Hibernate<br>✔ OOP Concepts<br>✔ Python Basics & OOP<br>✔ Database Design<br><br>⚡ Fun Fact<br>Every day is a new chance to level up your skills—consistency beats perfection!<br><br>📫 Connect With Me<br>📧 Email: shubhamgangurde58@gmail.com<br><br>💼 LinkedIn: [https://www.linkedin.com/in/shubham-gangurde](https://www.linkedin.com/in/shubham-gangurde-772696388/)<br><br>🌐 GitHub: https://github.com/ShubhamGangurde58
+👋 Hi, I'm Shubham Gangurde<br><br>🎓 MCA First Year Student | 💻 Aspiring Full-Stack Java Developer<br>I am passionate about building efficient applications and learning modern technologies. I enjoy working on backend development, databases, and clean, structured code.<br><br>🌱 About Me<br>💻 Completed: C, C++, Core Java, Java 8, JDBC, Hibernate, Python (Basics + OOP)<br>🚀 Currently Learning: JSP, Servlets<br><br>🎯 Next Goals:<br>Master Spring Boot<br>Build full-scale enterprise applications<br>Strengthen Python for automation & scripting<br><br>🤝 Open to collaborate on:<br>Java Projects, Database Systems, Web Development, Python Scripts<br><br>⚡ Fun Fact<br>Every day is a new chance to level up your skills—consistency beats perfection!<br><br>📫 Connect With Me<br>📧 Email: shubhamgangurde58@gmail.com<br><br>💼 LinkedIn: [https://www.linkedin.com/in/shubham-gangurde](https://www.linkedin.com/in/shubham-gangurde-772696388/)<br><br>🌐 GitHub: https://github.com/ShubhamGangurde58
 
 
 ## 🌐 Socials:
@@ -25,7 +25,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
----
-[![](https://visitcount.itsvg.in/api?id=shubhamgangurde58&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
